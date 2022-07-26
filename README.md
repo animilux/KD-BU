@@ -1,6 +1,8 @@
 # KD-BU
 A torch Implementation of paper "Detecting Adversarial Samples from Artifacts" \
-Original Code (Tensorflow) : https://github.com/rfeinman/detecting-adversarial-samples
+Paper : https://arxiv.org/abs/1703.00410 \
+Original Code (Tensorflow) : https://github.com/rfeinman/detecting-adversarial-samples \
+
 
 Usage
 

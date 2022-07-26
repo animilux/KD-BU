@@ -9,7 +9,7 @@ MNIST, CIFAR-10, SVHN
 ## Adversarial Attack
 FGSM, BIM-A, BIM-B
 
-##Usage
+## Usage
 
     1. python scripts/train_model.py -d=mnist -e 20 -b 256
     2. python scripts/craft_adv_samples.py -d=mnist -a=fgsm -b 256
